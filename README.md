@@ -45,8 +45,7 @@ Discover the growing features of AgentNovaX:
 ---
 
 ## 📬 Stay Connected
-- Website: [AgentNovaX Platform](https://agentnovax.com)  
-- Email: [support@agentnovax.com](mailto:support@agentnovax.com)  
+- Website: [AgentNovaX Platform](https://agentnovax.com)    
 - Follow us on social media for updates and insights.
 
 ---
