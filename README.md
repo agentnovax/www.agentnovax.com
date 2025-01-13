@@ -85,4 +85,4 @@ If you use this project or its derivatives, please include the following attribu
 
 For visual or multimedia content, the attribution could appear as:
 
-Powered by AgentNovaX. Explore our community at [https://agentnovax.com](https://agentnovax.com).
+Powered by AgentNovaX. Explore our community at [https://agentnovax.com](https://www.agentnovax.com).
